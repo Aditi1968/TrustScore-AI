@@ -29,4 +29,4 @@ An enterprise-grade Revenue Intelligence System that detects:
 - Business Intelligence
 
 ## 🤝 Author
-Ajay Vasisht
+Aditi Vadmal
